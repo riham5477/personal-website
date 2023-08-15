@@ -11,6 +11,7 @@ body {
   width: 40%;
   margin-right: 10px;
   margin-top: 40px;
+  margin-left: 5%;
 }
 
 .half-width img {
@@ -18,6 +19,7 @@ body {
 }
 .prime_name {
   color: crimson;
+  font-size: larger;
 }
 .half-width h1 {
   font-size: 50px;
@@ -35,11 +37,23 @@ body {
   border-radius: 5px;
 }
 
-.one p {
+p {
   margin-bottom: 50px;
+  color: dimgray;
 }
 .header {
   height: 600px;
   background-image: url("images/header-bg.png");
   background-size: 100%;
+}
+.bio {
+  height: 700px;
+  background-image: url("images/biography-bg.png");
+  background-size: 100%;
+}
+.down img {
+  width: 80%;
+}
+.biog {
+  margin-top: 200px;
 }
