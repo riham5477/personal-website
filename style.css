@@ -57,3 +57,54 @@ p {
 .biog {
   margin-top: 200px;
 }
+.boro_dibba {
+  margin-left: 150px;
+  padding: 50px;
+}
+.work {
+  float: left;
+  width: 25%;
+  padding: 15px;
+}
+
+.work img {
+  width: 100%;
+}
+.latest h2 {
+  text-align: center;
+
+  font-size: 25px;
+}
+.latest {
+  height: 500px;
+  background-image: url("images/latest-work-bg.png");
+  padding-top: 200px;
+  background-position: right;
+  background-size: 100%;
+}
+.foot {
+  text-align: center;
+}
+.boro {
+  font-size: 30px;
+}
+.btn {
+  border: none;
+}
+a {
+  text-decoration: none;
+  color: white;
+}
+.foot {
+  background-image: url("images/footer-bg.png");
+  height: 400px;
+  background-size: 100%;
+  background-position: right;
+  padding-top: 100px;
+}
+footer {
+  text-align: center;
+  color: dimgray;
+  font-size: 12px;
+  padding: 50px;
+}
